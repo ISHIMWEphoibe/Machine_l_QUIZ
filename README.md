@@ -3,10 +3,11 @@ Overview
 This project is a House Price Prediction system that utilizes a machine learning model to estimate house prices based on the number of rooms and the area size. It consists of a Flask API backend, a Gradio-based frontend, and an additional web-based frontend using HTML and JavaScript.
 
 Gradio_frontend
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/d884e7e4-72db-4826-8a35-205d5c869617" />
 
 
 Flask API backend “ backendapi.py”
-
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/b9cc335b-f440-42c3-9001-98a1df7dac0e" />
 
 backendapi.py
 Code:
@@ -60,11 +61,11 @@ CORS enabled: for frontend-backend communication
 
  Project Structure
 
- home.html      # Web-based frontend
- backendapi.py         # Flask API backend
- connect.py     # Gradio-based frontend fetching from API
- index.py       # Another Gradio-based interface
- house_model.pkl # Pre-trained ML model
+ home.html: Web-based frontend
+ backendapi.py: Flask API backend
+ connect.py: Gradio-based frontend fetching from API
+ index.py: Another Gradio-based interface
+ house_model.pkl: Pre-trained ML model
 
 
 Installation & Setup
@@ -85,6 +86,8 @@ The API will start at `http://127.0.0.1:5000/`.
 - Open “home.html” in a browser
 - Enter the number of rooms and area size.
 - Click "Predict" to fetch the house price from the API.
+  
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/7b8d2220-47ec-4a75-9f6a-afd6706fe055" />
 
 
  Running the Gradio Interface
