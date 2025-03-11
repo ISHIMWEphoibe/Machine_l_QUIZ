@@ -3,7 +3,10 @@ Overview
 This project is a House Price Prediction system that utilizes a machine learning model to estimate house prices based on the number of rooms and the area size. It consists of a Flask API backend, a Gradio-based frontend, and an additional web-based frontend using HTML and JavaScript.
 
 Gradio_frontend
+
+
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/d884e7e4-72db-4826-8a35-205d5c869617" />
+
 
 
 Flask API backend “ backendapi.py”
